@@ -16,3 +16,9 @@ nav{
 nav, ul, li, a{
     text-decoration: none;
 }
+
+footer{
+    text-align: center;
+    background-color: lightcoral;
+    padding: 2px;
+}
